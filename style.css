@@ -2,13 +2,14 @@ img {
   width: 200px;
   height:200px;
 }
-background {
-  color: lemonchiffon;
+body {
+  background-color: lemonchiffon;
 }
 
 p{
   color: DarkOliveGreen;
   text-color: yellow;
+  font-size: 50px;
 }
 
 #banner {
