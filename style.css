@@ -1,6 +1,7 @@
 img {
   width: 200px;
   height:200px;
+  border-style: 1px black dashed;
 }
 body {
   background-color: lemonchiffon;
@@ -16,6 +17,3 @@ p{
  font-size: 50px; 
 }
 
-.nlp {
-  border-style: 1px black dashed;
-}
